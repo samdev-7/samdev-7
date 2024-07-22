@@ -1,7 +1,7 @@
 
 ### Hey there! I'm Sam Liu
 # Welcome to my GitHub profile
-This is where most of my personal projects rest.  
+I make "_interesting_" stuff, and this is where most of my personal projects rest.  
 Check out my [website](https://samliu.dev)!
 
 
