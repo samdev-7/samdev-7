@@ -1,6 +1,6 @@
 
 ## Hey there! I'm Sam 👋
-I'm a teen from Ontario Canada building random stuff and exploring what interests me.  
+I'm a teen from Ontario, Canada building random stuff and exploring what interests me.  
 I've built human-sized robots, crafted code used by teens around the world, and organized Canada's largest irl hackathon for teens.  
 My goal is to inspire my peers to start coding, and to start making.  
 
