@@ -1,8 +1,8 @@
 
 ## Hey there! I'm Sam 👋
 I'm a teen from Ontario Canada building random stuff and exploring what interests me.  
-My goal is to inspire my peers to start coding, and to start making.  
 I've built human-sized robots, crafted code used by teens around the world, and organized Canada's largest irl hackathon for teens.  
+My goal is to inspire my peers to start coding, and to start making.  
 
 You can see much of what I'm building on my GitHub, but do give my [website](https://samliu.dev) a visit! 
 
